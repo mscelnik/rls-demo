@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "src"
+    ],
+    "python.testing.cwd": "src",
+    "python.pythonPath": ".venv\\python.exe",
+    "python.envFile": "${workspaceFolder}/.env",
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "src"
+    }
+}
